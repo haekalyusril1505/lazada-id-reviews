@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+load_dotenv()
 from MLProject import logger
 from MLProject.pipeline.stage_01_data_ingestion import DataIngestionPipeline
 from MLProject.pipeline.stage_02_preprocessing import PreprocessingPipeline

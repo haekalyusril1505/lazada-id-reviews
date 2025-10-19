@@ -1,6 +1,6 @@
-# **Machine Learning Project Template**
+# **Lazada Indonesia Reviews Project**
 
-![workflow status](https://github.com/rohwid/machine-learning-project-template/actions/workflows/builder.yml/badge.svg)
+![workflow status](https://https://github.com/haekalyusril1505/lazada-id-reviews/badge.svg)
 
 Steps:
 + Select **Use this template** > **Create a new repository**. This menu is in the top right corner of this repository.
